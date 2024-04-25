@@ -1,0 +1,5 @@
+﻿Domain Model of a Metro Journey
+1. MetroCard
+2. Journey
+3. Stations
+4. Passenger
